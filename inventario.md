@@ -2,6 +2,7 @@
 ---
 INVENTARIO
 ---
+## Componenti
 - Processori
 - Schede madri
 
