@@ -2,3 +2,4 @@
 ---
 INVENTARIO
 ---
+- Processori
